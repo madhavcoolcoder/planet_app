@@ -1,0 +1,16 @@
+#planet
+{
+    background-image: url("space.avif");
+    background-position: center;
+    background-size: cover;
+}
+.header
+{
+    color: white;
+}
+#all_planets
+{
+    background-image: url("space.avif");
+    background-position: center;
+    background-size: cover;
+}
